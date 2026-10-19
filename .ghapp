@@ -1,0 +1,10 @@
+{
+  "id": 173021081,
+  "created_at": "2026-10-19T12:25:16.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["rivm-syso.r-universe.dev"]
+}
