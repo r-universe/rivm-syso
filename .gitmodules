@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/rivm-syso/rivm-syso.r-universe.dev
 	branch = HEAD
+[submodule "ROvis"]
+	path = ROvis
+	url = https://github.com/rivm-syso/ROvis
+[submodule "ROvis.echarts"]
+	path = ROvis.echarts
+	url = https://github.com/rivm-syso/ROvis.echarts
+[submodule "ROvis.ggplot2"]
+	path = ROvis.ggplot2
+	url = https://github.com/rivm-syso/ROvis.ggplot2
+[submodule "ROvis.plotly"]
+	path = ROvis.plotly
+	url = https://github.com/rivm-syso/ROvis.plotly
+[submodule "ROvis.shiny"]
+	path = ROvis.shiny
+	url = https://github.com/rivm-syso/ROvis.shiny
+[submodule "ROvis.table"]
+	path = ROvis.table
+	url = https://github.com/rivm-syso/ROvis.table
+[submodule "ROvis.utils"]
+	path = ROvis.utils
+	url = https://github.com/rivm-syso/ROvis.utils
