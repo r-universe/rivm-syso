@@ -1,0 +1,30 @@
+[
+  {
+    "package": "ROvis.utils",
+    "releasetag": true
+  },
+  {
+    "package": "ROvis.ggplot2",
+    "releasetag": true
+  },
+  {
+    "package": "ROvis.plotly",
+    "releasetag": true
+  },
+  {
+    "package": "ROvis.echarts",
+    "releasetag": true
+  },
+  {
+    "package": "ROvis.table",
+    "releasetag": true
+  },
+  {
+    "package": "ROvis.shiny",
+    "releasetag": true
+  },
+  {
+    "package": "ROvis",
+    "releasetag": true
+  }
+]

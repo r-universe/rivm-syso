@@ -5,21 +5,28 @@
 [submodule "ROvis"]
 	path = ROvis
 	url = https://github.com/rivm-syso/ROvis
+	branch = *release
 [submodule "ROvis.echarts"]
 	path = ROvis.echarts
 	url = https://github.com/rivm-syso/ROvis.echarts
+	branch = *release
 [submodule "ROvis.ggplot2"]
 	path = ROvis.ggplot2
 	url = https://github.com/rivm-syso/ROvis.ggplot2
+	branch = *release
 [submodule "ROvis.plotly"]
 	path = ROvis.plotly
 	url = https://github.com/rivm-syso/ROvis.plotly
+	branch = *release
 [submodule "ROvis.shiny"]
 	path = ROvis.shiny
 	url = https://github.com/rivm-syso/ROvis.shiny
+	branch = *release
 [submodule "ROvis.table"]
 	path = ROvis.table
 	url = https://github.com/rivm-syso/ROvis.table
+	branch = *release
 [submodule "ROvis.utils"]
 	path = ROvis.utils
 	url = https://github.com/rivm-syso/ROvis.utils
+	branch = *release
